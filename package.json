@@ -1,0 +1,18 @@
+{
+   "name": "CFNode",
+      "version": "0.0.1",
+      "description": "CtrlFreq application in node.js",
+      "homepage": "http://github.com/aughey/CFNode",
+      "keywords": [
+         "backup"
+         ],
+      "author": {
+         "name": "John Aughey",
+         "email": "jha@aughey.com"
+      },
+
+      "dependencies": {
+         "coffee-script": ">= 1.4.0",
+         "optimist": ">= 0.3.4"
+      }
+}
