@@ -13,6 +13,7 @@
 
       "dependencies": {
          "coffee-script": ">= 1.4.0",
-         "optimist": ">= 0.3.4"
+         "optimist": ">= 0.3.4",
+         "nstore": ">= 0.5.1"
       }
 }
